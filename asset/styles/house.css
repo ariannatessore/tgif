@@ -1,0 +1,74 @@
+
+.form-select{
+    width: 20%;
+           display: inline-block;
+    position: relative;
+            left: 477px;
+          top:3px;
+}
+
+.checkkkk{
+
+    font-family: sans-serif;
+    display: inline-block;
+    
+}
+
+.tittle{
+    font: oblique bold 120% cursive;
+    font-size:50px;
+    
+}
+
+#typescheckbox{
+    font-family: sans-serif;
+    display: inline-block;
+    
+    position: relative;
+    left: 20px;
+}
+
+.checkk2{
+    font-family: sans-serif;
+    display:inline-block;
+    position: relative;
+    left: 445px;
+}
+.filterstate2{
+    display:inline-block;
+    position: relative;
+    left: 471px;
+   font-family: sans-serif;}
+#filterstate{
+    width: 20%;
+    display: inline-block;
+    position: relative;
+    left: 477px;
+    top: 3px;
+}
+.textsenators{
+   font-family: sans-serif;
+}
+
+.textrepresentatites{
+    font-family: sans-serif;
+}
+.Checkboxes {
+    font-family: sans-serif;
+    display: flex;}
+
+.textend{
+   
+   
+    border:solid;
+    font-family: sans-serif;
+    display:flex;
+    justify-content: center;
+    color:grey
+}
+
+.titlefilter{
+
+position: relative;
+    left: 469px;
+}

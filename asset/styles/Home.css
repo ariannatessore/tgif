@@ -1,0 +1,45 @@
+ #homeimage {
+    position: relative;
+    
+    bottom: 22px;
+}
+ 
+.email{
+    font-size: 22px;
+    position: relative;
+    left: 765px;
+    font: oblique bold 120% cursive;
+}
+
+
+
+.favicon{
+    height: 49px;
+    position: relative;
+    left: 614px
+}
+.nav{
+   background-color: #e3f2fd;
+
+}
+.logo{
+    font:oblique bold 120% cursive;
+    font-size:50px;
+}
+ .textend{
+    position: relative;
+    bottom: -95px;
+    right: 611px;
+   
+    border:solid;
+    font: oblique bold 120% cursive;
+    color: #3498DB;
+    width: 1294px;
+    position: relative;left: -790px;
+    color:grey
+
+} 
+.texthome{
+    font:oblique bold 120% cursive;
+}
+

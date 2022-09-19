@@ -1,0 +1,30 @@
+.tittle{
+    font: oblique bold 120% cursive;
+    font-size:50px;
+}
+
+
+.textattendance{
+    width: 39%;
+  }
+  
+  .line {
+    background-color: black;
+    height: 1px;
+    width: 100%;
+    margin: 10px 0px 10px 0px;
+  }
+  
+  
+  
+  .table3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top:1%;
+  }
+
+  .tables{
+  display: flex;
+    justify-content: space-around;
+  }

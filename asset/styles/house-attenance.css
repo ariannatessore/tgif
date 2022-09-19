@@ -1,0 +1,48 @@
+
+
+
+.texthouseattenance{
+    font: oblique bold 120% cursive;
+    width: 624px;
+    display: inline-block;
+}
+
+
+
+.tittle{
+    font: oblique bold 120% cursive;
+    font-size:50px;
+}
+
+
+.tables{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+    margin-top: 1%;
+  }
+
+
+  .table1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-top: 1%;
+  }
+
+  .textattendance{
+    width: 50%;
+  }
+
+  .line {
+    background-color: black;
+    height: 1px;
+    width: 100%;
+    margin: 10px 0px 10px 0px;
+  }
+  .table2block{
+    width: 45%;
+  }
+
+
